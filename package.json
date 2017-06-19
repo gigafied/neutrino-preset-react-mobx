@@ -1,7 +1,7 @@
 {
   "name": "@gigafied/neutrino-preset-react-mobx",
   "private": false,
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "Neutrino preset for building React web applications w/ mobx",
   "main": "index.js",
   "keywords": [
